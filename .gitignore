@@ -25,3 +25,8 @@ hs_err_pid*
 
 #InteliJ files
 .idea/
+
+#os Finder file
+
+.DS_Store
+**/.DS_Store
